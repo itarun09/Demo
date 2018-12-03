@@ -1,0 +1,5 @@
+c:\users\arunrai\source\repos\Compare.Object\Compare.BO\bin\Debug\Compare.BO.dll
+c:\users\arunrai\source\repos\Compare.Object\Compare.BO\bin\Debug\Compare.BO.pdb
+c:\users\arunrai\source\repos\Compare.Object\Compare.BO\obj\Debug\Compare.BO.csproj.CoreCompileInputs.cache
+c:\users\arunrai\source\repos\Compare.Object\Compare.BO\obj\Debug\Compare.BO.dll
+c:\users\arunrai\source\repos\Compare.Object\Compare.BO\obj\Debug\Compare.BO.pdb
